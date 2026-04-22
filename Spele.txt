@@ -1,4 +1,15 @@
+Apraksts:
 Šī ir vienkārša vairāku spēlētāju spēle kurā tavs mērķis ir sakrāt 50 punktus
 metot īstu, vai virtuālu metamo kauliņu. Katrā gājienā spēlētājs met kauliņu
 un iegūtais skaitlis tiek pieskaitīts viņa kopējai punktu summai. Spēle beidzas
 nekavējoties kad viens spēlētājs sasniedz 50 punktus.
+
+Prasību specifikācija:
+F1: Programmai jādod iespēja koriģēt spēles režīmu atbilstoši tam vai spēlētājiem
+ir fizisks metamais kauliņš, ja nav tad programmai vajag ģenerēt skaitli no 1 līdz 6
+F2: Programmai jāskaita punkti un jāuzkrāj summa par katru spēlētāju
+F3: Programmai jāpārbauda uzvaras nosacījums (kopsumma >= 50) pēc katra metiena
+F4: Programmai jāpaziņo uzvarētājs un jātļauj spēlēt spēli atkārtoti ar pogu
+NF1: Lietotāja saskarnei jābūt saprotamai - skaidri redzamiem pašreizējamiem
+punktiem un pogai 'Mest' (ja ir izvēlēts spēlēt digitālo kauliņu)
+NF2: Programmai jādarbojas bez problēmām. (Programmēta valodā Python)
