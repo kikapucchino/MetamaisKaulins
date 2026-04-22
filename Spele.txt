@@ -1,0 +1,4 @@
+Šī ir vienkārša vairāku spēlētāju spēle kurā tavs mērķis ir sakrāt 50 punktus
+metot īstu, vai virtuālu metamo kauliņu. Katrā gājienā spēlētājs met kauliņu
+un iegūtais skaitlis tiek pieskaitīts viņa kopējai punktu summai. Spēle beidzas
+nekavējoties kad viens spēlētājs sasniedz 50 punktus.
