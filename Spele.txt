@@ -13,3 +13,6 @@ F4: Programmai jāpaziņo uzvarētājs un jātļauj spēlēt spēli atkārtoti a
 NF1: Lietotāja saskarnei jābūt saprotamai - skaidri redzamiem pašreizējamiem
 punktiem un pogai 'Mest' (ja ir izvēlēts spēlēt digitālo kauliņu)
 NF2: Programmai jādarbojas bez problēmām. (Programmēta valodā Python)
+
+Struktūrskice:
+Struktūrskice ir pieejama šajā Google Drive saitē: https://drive.google.com/file/d/1t8zTngXGHk1fzhyrIVWnhOh120sqRXBB/view
