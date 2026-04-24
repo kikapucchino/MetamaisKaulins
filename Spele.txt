@@ -16,3 +16,13 @@ NF2: Programmai jādarbojas bez problēmām. (Programmēta valodā Python)
 
 Struktūrskice:
 Struktūrskice ir pieejama šajā Google Drive saitē: https://drive.google.com/file/d/1t8zTngXGHk1fzhyrIVWnhOh120sqRXBB/view
+
+Testpiemēri:
+T1: Vai ievadot pirmo lietotāja vārdu, vai programma prasa ievadīt vairāk vārdus?
+T2: Vai programma atļaus ievadīt neko un nospiest pogu lai turpinātu programmu?
+T3: Ievadot lietotāju vārdus, vai programmas cikls atļaus ievadīt vairāk vārdus?
+T4: Programma strādās ģenerējot ciparus 1-6 ja tiek izmantota digitāls metamais kauliņš?
+T5: Vai spēle pārslēdz lietotāju kad tiek viena spēlētāja kārta beigusies (uzmests kauliņš)?
+T6: Ja spēlētājs sasniedz vai pārsniedz 50 limitu, vai tiek atvērts uzvarētāja ekrāns?
+T7: Pēc lietotāja uzvaras, vai “Sākt jaunu spēli” poga atgriež visu spēlētāju
+punktus uz 0?
